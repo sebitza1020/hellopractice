@@ -4,3 +4,10 @@ C:\Temp\Hello\Hello\bin\Debug\Hello.pdb
 C:\Temp\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
 C:\Temp\Hello\Hello\obj\Debug\Hello.exe
 C:\Temp\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\munte\OneDrive\Desktop\Facultate\An2\Practica Facultate\hellopractice\hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\munte\OneDrive\Desktop\Facultate\An2\Practica Facultate\hellopractice\hello\Hello\bin\Debug\Hello.exe
+C:\Users\munte\OneDrive\Desktop\Facultate\An2\Practica Facultate\hellopractice\hello\Hello\bin\Debug\Hello.pdb
+C:\Users\munte\OneDrive\Desktop\Facultate\An2\Practica Facultate\hellopractice\hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\munte\OneDrive\Desktop\Facultate\An2\Practica Facultate\hellopractice\hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\munte\OneDrive\Desktop\Facultate\An2\Practica Facultate\hellopractice\hello\Hello\obj\Debug\Hello.exe
+C:\Users\munte\OneDrive\Desktop\Facultate\An2\Practica Facultate\hellopractice\hello\Hello\obj\Debug\Hello.pdb
